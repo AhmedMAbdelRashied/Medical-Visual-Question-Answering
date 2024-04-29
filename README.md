@@ -32,7 +32,7 @@ We used the **LoRA** technique to reduce the number of trainable params
 |5| 1.455100| 1.426782|
 |6| 1.407700| 1.423500|
 |7| 1.372000| 1.422881|
-<br>
+
 ## Evaluation
 
 |Accuracy| BLEU|
